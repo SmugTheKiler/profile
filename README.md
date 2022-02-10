@@ -12,10 +12,14 @@ Wanna contact me?
 - Send a message to me on the [Discord Server](https://discord.gg/E35Mq64an9)
 
 👀 Profile Infromation 👀
+
+
+
 [![Profile](https://github-readme-stats.vercel.app/api?username=smugthekiler)](https://github.com/smugthekiler)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smugthekiler&layout=compact)](https://github.com/smugthekiler)
 
- 📢 Wanna hire me for what ever reason? 📢 
+ 📢 Wanna hire me for what ever reason? 📢
+ 
  📢 Check out my [Fiverr Page](https://www.fiverr.com/smugthekiler) for info!! 📢 
