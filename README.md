@@ -22,4 +22,4 @@ Wanna contact me?
 
  📢 Wanna hire me for what ever reason? 📢
  
- 📢 Check out my [Fiverr Page](https://www.fiverr.com/smugthekiler) for info!! 📢 
+ 📢 Check out my [Fiverr Page](https://www.fiverr.com/smugthekiler) for info!!  📢 
