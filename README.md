@@ -23,3 +23,10 @@ Wanna contact me?
  📢 Wanna hire me for what ever reason? 📢
  
  📢 Check out my [Fiverr Page](https://www.fiverr.com/smugthekiler) for info!!  📢 
+
+<details>
+<summary>Trophies</summary>
+<br />
+
+![SmugTheKilers's trophies](https://github-profile-trophy.vercel.app/?username=smugthekiler&column=5&margin-w=7&margin-h=7)
+</details>
