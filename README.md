@@ -13,14 +13,13 @@ Wanna contact me?
 
 👀 Profile Infromation 👀
 
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=smugthekiler.visitor-badge)
 
 [![Profile](https://github-readme-stats.vercel.app/api?username=smugthekiler)](https://github.com/smugthekiler)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SmugTheKiler&theme=city-lights&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smugthekiler&layout=compact)](https://github.com/smugthekiler)
-
- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=smugthekiler.visitor-badge)
 
 (Since 5/19)
 <details>
