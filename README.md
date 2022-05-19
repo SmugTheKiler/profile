@@ -20,9 +20,7 @@ Wanna contact me?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smugthekiler&layout=compact)](https://github.com/smugthekiler)
 
- 📢 Wanna hire me for what ever reason? 📢
- 
- 📢 Check out my [Fiverr Page](https://www.fiverr.com/smugthekiler) for info!!  📢 
+ 📢 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=smugthekiler.visitor-badge)
 
 <details>
 <summary>Trophies</summary>
