@@ -21,7 +21,8 @@ Wanna contact me?
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smugthekiler&layout=compact)](https://github.com/smugthekiler)
 
  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=smugthekiler.visitor-badge)
-||(Since 5/19)||
+
+(Since 5/19)
 <details>
 <summary>Trophies</summary>
 <br />
