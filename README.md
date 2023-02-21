@@ -4,12 +4,24 @@
 
 ⏱ I've been working on programing since the end of summer of 2020.⏱ 
 
+✨ Worked with Javascript, Node.js, HTML, CSS, Some typescript. ✨
+✨ Really social, and spend quite a big amount of time on games (Valorant) ✨
+✨ Comfortable with calls. ✨
+✨ Can make very clean code, and will always do a lot of research in attempt to make the code faster and better. ✨
+
+:)
 
 Currently working on:
-- [${Ella}🤖](https://discord.com/oauth2/authorize?client_id=743292394237329440&scope=bot&permissions=8) - The project I've been working on since the very begining of my career.
+- [Cipher6](https://ellabot.xyz/pages/testing.html) - This is a cipher website for Codebusters from science olympiad to practice their decryption skills. 
+
+
+Last project:
+
+- [${Ella}🤖](https://discord.com/oauth2/authorize?client_id=743292394237329440&scope=bot&permissions=8) - The project I've worked on since the very begining of my career.
 
 Wanna contact me?
-- Send a message to me on the [Discord Server](https://discord.gg/E35Mq64an9)
+- Just message me on discord! SmugTheKiler#8890
+
 
 👀 Profile Infromation 👀
 
@@ -21,7 +33,7 @@ Wanna contact me?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smugthekiler&layout=compact)](https://github.com/smugthekiler)
 
-(Since 5/19)
+(Since 5/19 2021???)
 <details>
 <summary>Trophies</summary>
 <br />
