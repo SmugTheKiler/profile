@@ -33,7 +33,6 @@ Wanna contact me?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smugthekiler&layout=compact)](https://github.com/smugthekiler)
 
-(Since 5/19 2021???)
 <details>
 <summary>Trophies</summary>
 <br />
