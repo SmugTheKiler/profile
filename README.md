@@ -5,8 +5,11 @@
 ⏱ I've been working on programing since the end of summer of 2020.⏱ 
 
 ✨ Worked with Javascript, Node.js, HTML, CSS, Some typescript. ✨
+
 ✨ Really social, and spend quite a big amount of time on games (Valorant) ✨
+
 ✨ Comfortable with calls. ✨
+
 ✨ Can make very clean code, and will always do a lot of research in attempt to make the code faster and better. ✨
 
 :)
