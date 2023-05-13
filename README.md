@@ -1,6 +1,6 @@
 # profile
 
-📢*Hello..*📢
+📢 *Hello..* 📢
 
 ⏱ I've been working on programing since the end of summer of 2020.⏱ 
 
