@@ -1,4 +1,4 @@
-<a href="https://i.imgur.com/bDMem9l.gif"><img src="https://i.imgur.com/bDMem9l.gif" width="100%" height="auto"/></a>
+<a href="https://i.imgur.com/6tcTRI8.jpg"><img src="https://i.imgur.com/6tcTRI8.jpg" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCbOqnGLxo9t3JRrP1QL7Rkg"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -10,6 +10,7 @@
 </p>
 
 <br/>
+
 
 <p>
   
@@ -45,7 +46,7 @@ Hi 👋, I am **SmugTheKiler** or just *Smug.* Yeah, I know there's only one L, 
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.imgur.com/92fAJft.jpg"/>
+<img align="right" width="38%" src="https://i.imgur.com/ndQsVmm.jpg"/>
 
 
   <a href="https://github.com/SmugTheKiler"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SmugTheKiler"></a>
