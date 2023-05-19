@@ -1,30 +1,58 @@
-<h1 align="center">Hi 👋, I'm SmugTheKiler</h1>
-<h3 align="center">Just another Node.js developer that's also learning Web3.js and Solidity.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smugthekiler&label=Profile%20views&color=0e75b6&style=flat" alt="smugthekiler" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smugthekiler" alt="smugthekiler" /></a> </p>
-
-- 🔭 I’m currently working on **Simple blockchain projects like a node**
-
-- 🌱 I’m currently learning **Web3.js, solidity, HTML5**
-
-- 👨‍💻 All of my projects are available at [https://smugthekiler.xyz/](https://smugthekiler.xyz/)
-
-- 💬 Ask me about **Anything - I will always answer honestly**
-
-- 📫 How to reach me **SmugTheKiler#8890**
-
-- ⚡ Fun fact **I am an Actor :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@smugthekiler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smugthekiler" height="30" width="40" /></a>
+<a href="https://i.imgur.com/bDMem9l.gif"><img src="https://i.imgur.com/bDMem9l.gif" width="100%" height="auto"/></a>
+<p align="center">
+  <a href="https://www.youtube.com/UCbOqnGLxo9t3JRrP1QL7Rkg"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/smugthekiler"><img width="32px" alt="Dev.to" title="SmugTheKiler Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/smugthekiler"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.patreon.com/SmugTheKiler"><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smugthekiler&show_icons=true&locale=en" alt="smugthekiler" /></p>
+<p>
+  
+Hi 👋, I am **SmugTheKiler** or just *Smug.* Yeah, I know there's only one L, don't message me about it. I am an underground developer you will never hear about after you leave this page ✨
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smugthekiler&show_icons=true&locale=en&layout=compact" alt="smugthekiler" /></p>
+<div>
+<details>
+  <summary>🧑 More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 🤝 I’m looking for help with **finding a female companion!**
+
+- 👨‍💻 All of my projects are available at [smugthekiler.xyz](https://smugthekiler.xyz)
+
+- 💬 Ask me about **Javascript, Node.js, HTML, etc.**
+<!--
+ - 📫 Reach me out at ****
+-->
+</details>
+  
+</p>
+  
+<!--
+<details>
+  <summary>📕 Blog Posts</summary>
+  <br />
+</details>
+</div>
+-->
+
+## 🔥 Github Stats
+
+<img align="right" width="38%" src="https://i.imgur.com/92fAJft.jpg"/>
+
+
+  <a href="https://github.com/SmugTheKiler"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SmugTheKiler"></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SmugTheKiler&theme=city-lights&border_radius=20)](https://git.io/streak-stats)
+
+## My Projects
+
+<p align="left">
+  <a href="https://github.com/SmugTheKiler/funy-api--"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=SmugTheKiler&repo=funy-api--&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="custom-icon-badges"></a>
+</p>
