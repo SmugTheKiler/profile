@@ -46,7 +46,7 @@ Hi 👋, I am **SmugTheKiler** or just *Smug.* Yeah, I know there's only one L, 
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://img3.gelbooru.com//samples/52/52/sample_5252ff07666930e1f0157a68426f8dff.jpg"/>
+<img align="right" width="38%" src="https://img3.gelbooru.com//images/00/fb/00fb36a9af8db93ad9e89c5d9f3a35c1.jpg"/>
 
 
   <a href="https://github.com/SmugTheKiler"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=SmugTheKiler"></a>
