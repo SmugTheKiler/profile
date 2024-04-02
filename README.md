@@ -1,4 +1,4 @@
-<a href="https://i.imgur.com/6tcTRI8.jpg"><img src="https://i.imgur.com/6tcTRI8.jpg" width="100%" height="auto"/></a>
+<a href="https://img3.gelbooru.com//samples/b0/ac/sample_b0ac55c340dc6711cfc699abbe25d508.jpg"><img src="https://img3.gelbooru.com//samples/b0/ac/sample_b0ac55c340dc6711cfc699abbe25d508.jpg" width="100%" height="auto"/></a>
 <p align="center">
   <a href="https://www.youtube.com/UCbOqnGLxo9t3JRrP1QL7Rkg"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
