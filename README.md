@@ -55,5 +55,5 @@ Hi 👋, I am **SmugTheKiler** or just *Smug.* Yeah, I know there's only one L, 
 ## My Projects
 
 <p align="left">
-  <a href="https://github.com/SmugTheKiler/funy-api--"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=SmugTheKiler&repo=funy-api--&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/SmugTheKiler/minecraft-coordinates-app"><img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=SmugTheKiler&repo=minecraft-coordinates-app&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="custom-icon-badges"></a>
 </p>
