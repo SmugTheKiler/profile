@@ -26,9 +26,9 @@ Hi 👋, I am **SmugTheKiler** or just *Smug.* Yeah, I know there's only one L, 
 
 - 🤝 I’m looking for help with **finding a female companion!**
 
-- 👨‍💻 All of my projects are available at [smugthekiler.xyz](https://smugthekiler.xyz)
+- 👨‍💻 All of my projects are available at **...**
 
-- 💬 Ask me about **Javascript, Node.js, HTML, etc.**
+- 💬 Ask me about **Javascript, Node.js, HTML**
 <!--
  - 📫 Reach me out at ****
 -->
